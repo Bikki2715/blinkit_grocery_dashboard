@@ -2,6 +2,8 @@
 
 ## 📊 Project Overview
 
+if the dataset is not visible click view raw then it download and then go to the downloaded file
+
 This project focuses on analyzing **BlinkIT grocery sales data** using **Microsoft Power BI** to identify sales patterns, outlet performance, product-level trends, and customer-related insights.
 
 The project includes data exploration, data preparation, business analysis, and interactive data visualization through a Power BI dashboard.
